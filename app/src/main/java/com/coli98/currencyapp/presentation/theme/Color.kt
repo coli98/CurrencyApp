@@ -1,4 +1,4 @@
-package com.coli98.currencyapp.ui.theme
+package com.coli98.currencyapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
